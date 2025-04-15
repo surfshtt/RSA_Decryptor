@@ -10,6 +10,8 @@ namespace RSA
             InitializeComponent();
         }
 
+        string alphabet = "אבגדהו¸זחטיךכלםמןנסעףפץצקרשתûü‎‏ÿ";
+
         public bool isPrime(int number)
         {
             if (number == 1 || number == 2)
@@ -89,12 +91,22 @@ namespace RSA
 
             foreach (char symb in message)
             {
-                result += BigInteger.ModPow((int)symb, e, n) + " ";
+                result += BigInteger.ModPow(findSymb(symb), e, n) + " ";
             }
 
-            //textBox4.Text = $"Çאךנûעûי ךכ‏ק: ({d}, {n}) n = {n} e = {e}";
-
             return result;
+        }
+
+        private int findSymb(char symb)
+        {
+            for (int i = 0; i < alphabet.Length; i++)
+            {
+                if(alphabet[i] == symb)
+                {
+                    return i;
+                }
+            }
+            return -1;
         }
 
         private void Decrypt_Click(object sender, EventArgs e)
@@ -114,9 +126,9 @@ namespace RSA
             }
             catch { }
 
-            foreach(int key in keys)
+            foreach (int key in keys)
             {
-                textBox9.Text += (char)(key+70);
+                textBox9.Text += alphabet[key];
             }
 
             textBox9.Text = textBox9.Text.Substring(0, textBox9.Text.Length - 1);

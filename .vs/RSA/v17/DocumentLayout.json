@@ -1,18 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\",
+  "WorkspaceRootPath": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|c:\\users\\user\\source\\repos\\rsa\\rsa_decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|solutionrelative:rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|\\\\mcb.local\\roamingprofiles$\\studentsdata\\1227154\\desktop\\rsa\\rsa_decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|c:\\users\\user\\source\\repos\\rsa\\rsa_decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|solutionrelative:rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|c:\\users\\user\\source\\repos\\rsa\\rsa_decryptor\\rsa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|solutionrelative:rsa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|\\\\mcb.local\\roamingprofiles$\\studentsdata\\1227154\\desktop\\rsa\\rsa_decryptor\\rsa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +19,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.Designer.cs",
+              "DocumentMoniker": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "RSA\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.Designer.cs",
+              "ToolTip": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.Designer.cs",
               "RelativeToolTip": "RSA\\Form1.Designer.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAtwNkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T20:36:03.963Z",
               "EditorCaption": ""
@@ -41,11 +42,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
+              "DocumentMoniker": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
               "RelativeDocumentMoniker": "RSA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
+              "ToolTip": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
               "RelativeToolTip": "RSA\\Form1.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA4wH4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:59:37.99Z",
               "EditorCaption": ""
@@ -54,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
+              "DocumentMoniker": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
               "RelativeDocumentMoniker": "RSA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "\\\\mcb.local\\RoamingProfiles$\\StudentsData\\1227154\\Desktop\\RSA\\RSA_Decryptor\\RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:58:55.281Z",
