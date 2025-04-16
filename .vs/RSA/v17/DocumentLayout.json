@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|solutionrelative:rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|c:\\users\\user\\source\\repos\\rsa\\rsa_decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DFE4459C-6807-4AE6-B92A-54ADB715BCA8}|RSA\\RSA.csproj|solutionrelative:rsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,9 +43,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
               "RelativeDocumentMoniker": "RSA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
-              "RelativeToolTip": "RSA\\Form1.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHkAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs*",
+              "RelativeToolTip": "RSA\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:59:37.99Z",
               "EditorCaption": ""
@@ -56,8 +56,8 @@
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs",
               "RelativeDocumentMoniker": "RSA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RSA\\RSA_Decryptor\\RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
+              "RelativeToolTip": "RSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:58:55.281Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
